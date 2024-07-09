@@ -1,0 +1,130 @@
+body {
+    background-color: rgb(248, 245, 247);
+    border: 5px solid blue;
+    border-radius: 10px;
+
+}
+
+
+.box {
+    width: 300px;
+    height: 250px;
+    
+}
+
+#box1 {
+    background-color: tomato;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+.head {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bxo {
+    width: 240px;
+    height: 150px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+#box2 {
+    background-color: blueviolet;
+}
+
+#box3 {
+    background-color: rgb(6, 165, 64);
+}
+
+#box4 {
+    background-color: rgb(217, 226, 119);
+
+}
+
+#box5 {
+    background-color: rgb(226, 54, 180);
+
+}
+
+#box6 {
+    background-color: rgb(239, 121, 37);
+
+}
+
+#box7 {
+    background-color: rgba(26, 100, 180);
+
+}
+
+.container {
+    
+    height: 5300px;
+    
+    border-radius: 10px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
+.para1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.para2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.flex-item {
+    text-decoration: none;
+    
+}
+
+.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    width: 600px;
+    height: 400px
+
+}
+
+.photo3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    width: 600px;
+    height: 400px;
+    ;
+
+}
+
+.photo4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    width: 630px;
+    height: 400px;
+}
+
+.pho {
+    height: 55px;
+    width: 60px;
+}
+
+.phone {
+    text-align: center;
+}
+
+

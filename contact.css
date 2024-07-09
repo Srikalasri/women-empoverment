@@ -1,0 +1,36 @@
+body {
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+.contact {
+    text-align: center;
+}
+
+input {
+
+    border-radius: 10px;
+    height: 25px;
+}
+
+textarea {
+    border-radius: 20px;
+}
+
+.button {
+    cursor: pointer;
+    background-color: aqua;
+    color: rgb(26, 7, 7);
+    font-size: 20px;
+}
+
+.img {
+
+    height: 55px;
+    width: 85px;
+}
+
+.git {
+    cursor: pointer;
+    text-align: center;
+}

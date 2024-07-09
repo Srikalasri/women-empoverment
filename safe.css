@@ -1,0 +1,87 @@
+body {
+    border: 5px solid rgb(7, 151, 15);
+}
+
+
+
+
+
+.image {
+    width: 630px;
+    height: 450px;
+    object-fit: cover;
+}
+
+
+.para {
+    font-size: 28px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.para2 {
+    font-size: 30px;
+}
+
+.para3 {
+    font-size: 23px;
+}
+
+h2 {
+    font-size: 27px;
+}
+
+
+h3 {
+    font-size: 24px;
+}
+
+b {
+    font-size: 30px;
+}
+
+
+.install {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    width: 420px;
+    height: 650px;
+}
+
+.safe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    width: 600px;
+    height: 420px;
+}
+
+
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+
+
+.slide {
+    display: none;
+}
+
+
+
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+
+
+@keyframes fade {
+    from {opacity: .4;}
+    to {opacity: 1;}
+}
+
