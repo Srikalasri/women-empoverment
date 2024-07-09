@@ -65,12 +65,12 @@ h2 {
 .container {
     
     height: 5300px;
-    
+    text-align: center;
     border-radius: 10px;
 }
 
 h3 {
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .para1 {
