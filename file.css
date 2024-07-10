@@ -45,4 +45,10 @@ button {
     margin-left: 800px;
     
 }
+
+@media screen and (max-width: 600px){
+    body, .head, h1, button, .btn {
+        width: 100%;
+    } 
+}
     
