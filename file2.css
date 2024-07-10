@@ -123,6 +123,10 @@ h3 {
     width: 60px;
 }
 
+h1 {
+    font-size: 10px;
+}
+
 .phone {
     text-align: center;
 }
