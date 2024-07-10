@@ -1,6 +1,4 @@
-body {
-    border: 5px solid green;
-}
+
 
 .para {
     font-size: 28px;
@@ -41,4 +39,10 @@ body {
     width: 630px;
     height: 450px;
     object-fit: cover;
+}
+
+@media screen and (max-width: 600px){
+    .para, intro-image, .image, h1, .slideshow-container, .slide, .fade {
+        width: 100%;
+    } 
 }
