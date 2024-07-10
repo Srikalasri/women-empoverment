@@ -28,6 +28,7 @@ body {
 h1 {
     font-size: 95px;
     color: rgb(144, 15, 15);
+    display: flex;
     
 }
 
