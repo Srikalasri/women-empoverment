@@ -127,4 +127,11 @@ h3 {
     text-align: center;
 }
 
+@media screen and (max-width: 600px){
+    body, .box, .bxo, .container, .flex-item, .head, #box1, h2, #box2, #box3, #box4, #box5, #box6, #box7, h3, .para1, .para2, .image1, .photo3, .photo4, .pho, .phone {
+        width: 100%;
+    } 
+}
+
+
 
