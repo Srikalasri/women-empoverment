@@ -24,6 +24,7 @@ h2 {
 
 .head {
     display: flex;
+    flex-direction: column;
     justify-content: space-evenly;
 }
 
