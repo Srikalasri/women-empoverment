@@ -1,6 +1,4 @@
-body {
-    border: 5px;
-}
+
 
 
 
@@ -59,4 +57,10 @@ h3 {
     text-align: center;
     border: 5px solid gold;
     padding: 10px 20px 20px 10px;
+}
+
+@media screen and (max-width: 600px){
+    .para1, .image1, h1, .slideshow-container, .slide, .fade, .image, h3, .para2, .contact {
+        width: 100%;
+    } 
 }
